@@ -6,7 +6,7 @@
 using namespace cv;
 using namespace std;
 
-///////////////// Project 1 ¨C Virtual Painter //////////////////////
+///////////////// Project 2 ¨C Virtual Painter //////////////////////
 
 Mat img;
 VideoCapture cap(0);

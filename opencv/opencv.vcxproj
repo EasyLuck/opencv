@@ -19,7 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="chapter9_project1.cpp" />
+    <ClCompile Include="chapter9_project2.cpp" />
     <ClCompile Include="chapter9_project3.cpp" />
+    <ClCompile Include="chapter9_project3_impl.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

@@ -7,7 +7,7 @@
 using namespace cv;
 using namespace std;
 
-/////////////// Project 3 ¨C License Plate Detector //////////////////////
+/////////////// Project 1 ¨C License Plate Detector //////////////////////
 
 int main() {
 
